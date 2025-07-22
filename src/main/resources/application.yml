@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: msdocs-mysql
+  profiles:
+    active: dev
+server:
+  port: 8080
+

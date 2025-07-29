@@ -1,3 +1,5 @@
+CREATE DATABASE `demo` CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_general_ci';
+
 CREATE TABLE `todo_item` (
                              `id` varchar(255) NOT NULL COMMENT 'ID',
                              `description` varchar(255) DEFAULT NULL,

@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.microsoft.azure.appservice.examples</groupId>
-    <artifactId>spring-boot-mongodb-app</artifactId>
+    <artifactId>msdocs-mysql-redis-sample</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-mongodb-app</name>
+    <name>msdocs-mysql-redis-sample</name>
     <description>A Simple Spring Boot TODO list application with connectivity to MongoDB.</description>
 
     <parent>
